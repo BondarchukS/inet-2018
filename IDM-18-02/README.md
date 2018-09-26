@@ -2,7 +2,7 @@
 
 Белов	Алексей	Евгеньевич - https://s1ftifellow.github.io/
 
-Бондарчук	Сергей	Сергеевич
+Бондарчук	Сергей	Сергеевич - https://github.com/BondarchukS
 
 Гаврилов	Кирилл	Александрович - https://gavr0308.github.io/
 
